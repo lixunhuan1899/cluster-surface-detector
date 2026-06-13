@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# PyCharm
+.idea/
+
+# ASE
+*.traj
+
+# Build
+*.so
+*.o
+
+# System
+.DS_Store
