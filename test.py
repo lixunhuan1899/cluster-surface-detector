@@ -1,4 +1,4 @@
-from cuni_ads_scripts.surface_atoms import get_surface_mask
+from surface import get_surface_mask
 from ase.io import write, read
 
 atoms = read('test.xyz', index=-1)
